@@ -1,0 +1,12 @@
+{
+  "10": ["You climb higher.", "The tower shakes above you."],
+  "20": ["A voice whispers...", "Keep going."],
+  "30": ["Something is watching you..."],
+  "40": ["You feel stronger."],
+  "50": ["Halfway there."],
+  "60": ["The exit is near."],
+  "70": ["Don't give up."],
+  "80": ["The tower trembles."],
+  "90": ["Almost there..."],
+  "100": ["You reached the top!", "The journey ends."]
+}
